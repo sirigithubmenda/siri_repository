@@ -1,0 +1,17 @@
+created new repository
+created new branch
+write the code
+pull the request and merge it
+
+git bash
+create new directory
+clone the code in local respository
+and then git checkout branch name
+
+vs code
+add folder to workspace
+add a new file under folder 
+and write a code
+and do git add.
+git commit -"m"
+git push
